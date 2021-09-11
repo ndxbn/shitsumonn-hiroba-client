@@ -1,8 +1,8 @@
 # 質問ひろばのデータを JSON にするやつ
 
-- [100mon.jp](100mon.jp)
-- [50mon.jp](50mon.jp)
-- [10mon.jp](10mon.jp)
+- [100mon.jp](//100mon.jp)
+- [50mon.jp](//50mon.jp)
+- [10mon.jp](//10mon.jp)
 
 ## ER図的なもの
 
